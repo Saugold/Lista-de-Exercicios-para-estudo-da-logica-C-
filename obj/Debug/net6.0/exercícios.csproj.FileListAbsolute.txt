@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\bin\Debug\net6.0\exercícios.exe
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\bin\Debug\net6.0\exercícios.deps.json
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\bin\Debug\net6.0\exercícios.runtimeconfig.json
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\bin\Debug\net6.0\exercícios.dll
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\bin\Debug\net6.0\exercícios.pdb
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.dll
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\refint\exercícios.dll
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.pdb
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\exercícios.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\programação\C#\exercícios\obj\Debug\net6.0\ref\exercícios.dll
